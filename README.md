@@ -1,6 +1,6 @@
 - 👋 G'day, G'day I’m Bianca @franb92
 - 🌱🌸 I enjoy pottering in the garden with my plants, and all things peachy
-- 👩‍💻 I’m currently learning how to code - react and django
+- 👩‍💻 I’m currently learning how to code through She Codes
 - 📫 You can contact me on linked in: https://au.linkedin.com/in/bianca-franettovich-a826a2203 
 
 <!---
